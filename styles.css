@@ -1,6 +1,5 @@
 /*  your css code here. If applicable */
-div{
-	display:flex;
-	background:rgb(255, 255, 0);
-	aliign-item:center;
+.abc{
+	background-color:yellow;
+	
 }
